@@ -1,0 +1,21 @@
+from selenium.webdriver.common.by import By
+
+class RegisterPageLocators:
+    first_name_input = (By.CSS_SELECTOR, "input[placeholder='First Name']")
+    last_name_input = (By.CSS_SELECTOR, "input[placeholder='Last Name']")
+    address_input = (By.TAG_NAME, "textarea")
+    email_input = (By.XPATH, "//input[@type = 'email']")
+    phone_input = (By.CSS_SELECTOR, "input[type = 'tel']")
+    gender_radio = (By.CSS_SELECTOR, "input[type= 'radio']")
+    hobbies_checkbox = (By.CSS_SELECTOR, "input[type='checkbox']")
+    languages_dropdown = (By.ID, "msdd")
+    languages_list = (By.CSS_SELECTOR, ".ui-corner-all")
+    skills_dropdown = (By.ID, "Skills")
+    countries_dropdown = (By.ID, "country")
+    year_dropdown = (By.ID, "yearbox")
+    month_dropdown = (By.CSS_SELECTOR, "select[placeholder='Month']")
+    day_dropdown = (By.ID, "daybox")
+    password_input = (By.ID, "firstpassword")
+    confirm_password_input = (By.ID, "secondpassword")
+    image_upload = (By.ID, "imagesrc")
+    submit_button = (By.NAME, "signup")

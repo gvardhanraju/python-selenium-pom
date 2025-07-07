@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "first_name" : "Meghashyam",
+      "last_name" : "Sagabala",
+      "address" : "Hyderabad",
+      "email" : "demotest@gmail.com",
+      "phone" : 9876543210,
+      "gender" : "Male",
+      "hobbies" : ["Movies", "Cricket"],
+      "languages" : ["English", "Russian"],
+      "skill" : "Python",
+      "country" : "Japan",
+      "year" : "2003",
+      "month" : 5,
+      "day" : "11",
+      "password" : "poiuytrewq",
+      "confirm_password" : "poiuytrewq",
+      "image_path" : "C:\\Users\\10831500\\Downloads\\Upload 2.jpg",
+      "screenshot_name" : "user_shyam"
+    },
+    {
+      "first_name" : "Karthik",
+      "last_name" : "Manasamudram",
+      "address" : "Tirupati",
+      "email" : "demotest@gmail.com",
+      "phone" : 9876543210,
+      "gender" : "Male",
+      "hobbies" : ["Movies", "Cricket"],
+      "languages" : ["English", "Thai"],
+      "skill" : "Javascript",
+      "country" : "Japan",
+      "year" : "2002",
+      "month" : 6,
+      "day" : "1",
+      "password" : "rockstar",
+      "confirm_password" : "rockstar",
+      "image_path" : "C:\\Users\\10831500\\Downloads\\Upload 2.jpg",
+      "screenshot_name" : "user_karthik"
+    },
+    {
+      "first_name" : "Teja",
+      "last_name" : "Peewsar",
+      "address" : "Benguluru",
+      "email" : "demotest@gmail.com",
+      "phone" : 9876543210,
+      "gender" : "Male",
+      "hobbies" : ["Movies", "Cricket"],
+      "languages" : ["Hindi", "Danish"],
+      "skill" : "Java",
+      "country" : "Japan",
+      "year" : "2002",
+      "month" : 8,
+      "day" : "15",
+      "password" : "lovesongs",
+      "confirm_password" : "lovesongs",
+      "image_path" : "C:\\Users\\10831500\\Downloads\\Upload 2.jpg",
+      "screenshot_name" : "user_teja"
+    }
+  ]
+}

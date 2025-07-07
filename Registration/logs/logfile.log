@@ -1,0 +1,989 @@
+07-07-2025 01:09:28 PM - RegisterPage - INFO - Entered first name as Meghashyam
+07-07-2025 01:09:28 PM - RegisterPage - INFO - Entered last name as Sagabala
+07-07-2025 01:09:28 PM - RegisterPage - INFO - Entered address as Hyderabad
+07-07-2025 01:09:28 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 01:09:28 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 01:09:28 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 01:09:28 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 01:09:29 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 01:09:29 PM - RegisterPage - INFO - Selected ['English', 'Russian'] languages
+07-07-2025 01:09:29 PM - RegisterPage - INFO - Selected Python skill
+07-07-2025 01:09:29 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 01:09:30 PM - RegisterPage - INFO - Selected year 2003
+07-07-2025 01:09:30 PM - RegisterPage - INFO - Selected month 5
+07-07-2025 01:09:30 PM - RegisterPage - INFO - Selected day 11
+07-07-2025 01:09:30 PM - RegisterPage - INFO - Entered password
+07-07-2025 01:09:30 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 01:09:30 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 01:09:30 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 01:09:52 PM - RegisterPage - INFO - Entered first name as Karthik
+07-07-2025 01:09:52 PM - RegisterPage - INFO - Entered first name as Karthik
+07-07-2025 01:09:52 PM - RegisterPage - INFO - Entered last name as Manasamudram
+07-07-2025 01:09:52 PM - RegisterPage - INFO - Entered last name as Manasamudram
+07-07-2025 01:09:52 PM - RegisterPage - INFO - Entered address as Tirupati
+07-07-2025 01:09:52 PM - RegisterPage - INFO - Entered address as Tirupati
+07-07-2025 01:09:52 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 01:09:52 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 01:09:52 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 01:09:52 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 01:09:52 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 01:09:52 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 01:09:52 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 01:09:52 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 01:09:52 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 01:09:52 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 01:10:02 PM - RegisterPage - ERROR - Failed to select languages
+07-07-2025 01:10:02 PM - RegisterPage - ERROR - Failed to select languages
+07-07-2025 01:10:03 PM - RegisterPage - INFO - Selected Javascript skill
+07-07-2025 01:10:03 PM - RegisterPage - INFO - Selected Javascript skill
+07-07-2025 01:10:03 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 01:10:03 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 01:10:03 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 01:10:03 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 01:10:03 PM - RegisterPage - INFO - Selected month 6
+07-07-2025 01:10:03 PM - RegisterPage - INFO - Selected month 6
+07-07-2025 01:10:03 PM - RegisterPage - INFO - Selected day 1
+07-07-2025 01:10:03 PM - RegisterPage - INFO - Selected day 1
+07-07-2025 01:10:03 PM - RegisterPage - INFO - Entered password
+07-07-2025 01:10:03 PM - RegisterPage - INFO - Entered password
+07-07-2025 01:10:04 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 01:10:04 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 01:10:04 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 01:10:04 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 01:10:04 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 01:10:04 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 01:10:15 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 01:10:15 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 01:10:15 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 01:10:15 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 01:10:15 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 01:10:15 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 01:10:16 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 01:10:16 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 01:10:16 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 01:10:16 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 01:10:16 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 01:10:16 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 01:10:16 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 01:10:16 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 01:10:16 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 01:10:16 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 01:10:16 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 01:10:16 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 01:10:16 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 01:10:16 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 01:10:16 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 01:10:16 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 01:10:16 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 01:10:16 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 01:10:17 PM - RegisterPage - INFO - Selected ['Hindi', 'Danish'] languages
+07-07-2025 01:10:17 PM - RegisterPage - INFO - Selected ['Hindi', 'Danish'] languages
+07-07-2025 01:10:17 PM - RegisterPage - INFO - Selected ['Hindi', 'Danish'] languages
+07-07-2025 01:10:17 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 01:10:17 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 01:10:17 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 01:10:17 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 01:10:17 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 01:10:17 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 01:10:18 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 01:10:18 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 01:10:18 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 01:10:18 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 01:10:18 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 01:10:18 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 01:10:18 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 01:10:18 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 01:10:18 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 01:10:18 PM - RegisterPage - INFO - Entered password
+07-07-2025 01:10:18 PM - RegisterPage - INFO - Entered password
+07-07-2025 01:10:18 PM - RegisterPage - INFO - Entered password
+07-07-2025 01:10:18 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 01:10:18 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 01:10:18 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 01:10:18 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 01:10:18 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 01:10:18 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 01:10:18 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 01:10:18 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 01:10:18 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:36:29 PM - RegisterPage - INFO - Entered first name as Meghashyam
+07-07-2025 02:36:29 PM - RegisterPage - INFO - Entered last name as Sagabala
+07-07-2025 02:36:29 PM - RegisterPage - INFO - Entered address as Hyderabad
+07-07-2025 02:36:29 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:36:29 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:36:29 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:36:29 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:36:29 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:36:30 PM - RegisterPage - INFO - Selected ['English', 'Russian'] languages
+07-07-2025 02:36:30 PM - RegisterPage - INFO - Selected Python skill
+07-07-2025 02:36:30 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:36:30 PM - RegisterPage - INFO - Selected year 2003
+07-07-2025 02:36:30 PM - RegisterPage - INFO - Selected month 5
+07-07-2025 02:36:30 PM - RegisterPage - INFO - Selected day 11
+07-07-2025 02:36:30 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:36:30 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:36:30 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:36:30 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:36:42 PM - RegisterPage - INFO - Entered first name as Karthik
+07-07-2025 02:36:42 PM - RegisterPage - INFO - Entered first name as Karthik
+07-07-2025 02:36:42 PM - RegisterPage - INFO - Entered last name as Manasamudram
+07-07-2025 02:36:42 PM - RegisterPage - INFO - Entered last name as Manasamudram
+07-07-2025 02:36:42 PM - RegisterPage - INFO - Entered address as Tirupati
+07-07-2025 02:36:42 PM - RegisterPage - INFO - Entered address as Tirupati
+07-07-2025 02:36:42 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:36:42 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:36:42 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:36:42 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:36:42 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:36:42 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:36:42 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:36:42 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:36:42 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:36:42 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:36:43 PM - RegisterPage - INFO - Selected ['English', 'Thai'] languages
+07-07-2025 02:36:43 PM - RegisterPage - INFO - Selected ['English', 'Thai'] languages
+07-07-2025 02:36:43 PM - RegisterPage - INFO - Selected Javascript skill
+07-07-2025 02:36:43 PM - RegisterPage - INFO - Selected Javascript skill
+07-07-2025 02:36:43 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:36:43 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:36:43 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:36:43 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:36:43 PM - RegisterPage - INFO - Selected month 6
+07-07-2025 02:36:43 PM - RegisterPage - INFO - Selected month 6
+07-07-2025 02:36:43 PM - RegisterPage - INFO - Selected day 1
+07-07-2025 02:36:43 PM - RegisterPage - INFO - Selected day 1
+07-07-2025 02:36:43 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:36:43 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:36:44 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:36:44 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:36:44 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:36:44 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:36:44 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:36:44 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:36:54 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Selected ['Hindi', 'Danish'] languages
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Selected ['Hindi', 'Danish'] languages
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Selected ['Hindi', 'Danish'] languages
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:36:55 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:36:56 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:36:56 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:36:56 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:36:56 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:36:56 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:36:56 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:37:46 PM - RegisterPage - INFO - Entered first name as Meghashyam
+07-07-2025 02:37:47 PM - RegisterPage - INFO - Entered last name as Sagabala
+07-07-2025 02:37:47 PM - RegisterPage - INFO - Entered address as Hyderabad
+07-07-2025 02:37:47 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:37:47 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:37:47 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:37:47 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:37:47 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:37:47 PM - RegisterPage - INFO - Selected ['English', 'Russian'] languages
+07-07-2025 02:37:48 PM - RegisterPage - INFO - Selected Python skill
+07-07-2025 02:37:48 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:37:48 PM - RegisterPage - INFO - Selected year 2003
+07-07-2025 02:37:48 PM - RegisterPage - INFO - Selected month 5
+07-07-2025 02:37:48 PM - RegisterPage - INFO - Selected day 11
+07-07-2025 02:37:48 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:37:48 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:37:48 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:37:48 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:37:58 PM - RegisterPage - INFO - Entered first name as Karthik
+07-07-2025 02:37:58 PM - RegisterPage - INFO - Entered first name as Karthik
+07-07-2025 02:37:58 PM - RegisterPage - INFO - Entered last name as Manasamudram
+07-07-2025 02:37:58 PM - RegisterPage - INFO - Entered last name as Manasamudram
+07-07-2025 02:37:58 PM - RegisterPage - INFO - Entered address as Tirupati
+07-07-2025 02:37:58 PM - RegisterPage - INFO - Entered address as Tirupati
+07-07-2025 02:37:59 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:37:59 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:37:59 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:37:59 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:37:59 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:37:59 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:37:59 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:37:59 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:37:59 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:37:59 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:38:00 PM - RegisterPage - INFO - Selected ['English', 'Thai'] languages
+07-07-2025 02:38:00 PM - RegisterPage - INFO - Selected ['English', 'Thai'] languages
+07-07-2025 02:38:00 PM - RegisterPage - INFO - Selected Javascript skill
+07-07-2025 02:38:00 PM - RegisterPage - INFO - Selected Javascript skill
+07-07-2025 02:38:01 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:38:01 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:38:01 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:38:01 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:38:01 PM - RegisterPage - INFO - Selected month 6
+07-07-2025 02:38:01 PM - RegisterPage - INFO - Selected month 6
+07-07-2025 02:38:01 PM - RegisterPage - INFO - Selected day 1
+07-07-2025 02:38:01 PM - RegisterPage - INFO - Selected day 1
+07-07-2025 02:38:01 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:38:01 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:38:01 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:38:01 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:38:01 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:38:01 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:38:01 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:38:01 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:38:11 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 02:38:11 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 02:38:11 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 02:38:11 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 02:38:11 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 02:38:11 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 02:38:11 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 02:38:11 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 02:38:11 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 02:38:11 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:38:11 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:38:11 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:38:11 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:38:11 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:38:11 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:38:11 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:38:11 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:38:11 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:38:12 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:38:12 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:38:12 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:38:12 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:38:12 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:38:12 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:38:13 PM - RegisterPage - INFO - Selected ['Hindi', 'Danish'] languages
+07-07-2025 02:38:13 PM - RegisterPage - INFO - Selected ['Hindi', 'Danish'] languages
+07-07-2025 02:38:13 PM - RegisterPage - INFO - Selected ['Hindi', 'Danish'] languages
+07-07-2025 02:38:13 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 02:38:13 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 02:38:13 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 02:38:13 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:38:13 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:38:13 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:38:13 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:38:13 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:38:13 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:38:14 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 02:38:14 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 02:38:14 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 02:38:14 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 02:38:14 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 02:38:14 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 02:38:14 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:38:14 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:38:14 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:38:14 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:38:14 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:38:14 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:38:14 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:38:14 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:38:14 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:38:14 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:38:14 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:38:14 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:38:37 PM - RegisterPage - INFO - Entered first name as Meghashyam
+07-07-2025 02:38:37 PM - RegisterPage - INFO - Entered last name as Sagabala
+07-07-2025 02:38:38 PM - RegisterPage - INFO - Entered address as Hyderabad
+07-07-2025 02:38:38 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:38:38 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:38:38 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:38:38 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:38:38 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:38:39 PM - RegisterPage - INFO - Selected ['English', 'Russian'] languages
+07-07-2025 02:38:39 PM - RegisterPage - INFO - Selected Python skill
+07-07-2025 02:38:39 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:38:39 PM - RegisterPage - INFO - Selected year 2003
+07-07-2025 02:38:39 PM - RegisterPage - INFO - Selected month 5
+07-07-2025 02:38:39 PM - RegisterPage - INFO - Selected day 11
+07-07-2025 02:38:39 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:38:39 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:38:39 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:38:39 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:38:50 PM - RegisterPage - INFO - Entered first name as Karthik
+07-07-2025 02:38:50 PM - RegisterPage - INFO - Entered first name as Karthik
+07-07-2025 02:38:50 PM - RegisterPage - INFO - Entered last name as Manasamudram
+07-07-2025 02:38:50 PM - RegisterPage - INFO - Entered last name as Manasamudram
+07-07-2025 02:38:50 PM - RegisterPage - INFO - Entered address as Tirupati
+07-07-2025 02:38:50 PM - RegisterPage - INFO - Entered address as Tirupati
+07-07-2025 02:38:50 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:38:50 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:38:50 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:38:50 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:38:51 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:38:51 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:38:51 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:38:51 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:38:51 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:38:51 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:38:52 PM - RegisterPage - INFO - Selected ['English', 'Thai'] languages
+07-07-2025 02:38:52 PM - RegisterPage - INFO - Selected ['English', 'Thai'] languages
+07-07-2025 02:38:53 PM - RegisterPage - INFO - Selected Javascript skill
+07-07-2025 02:38:53 PM - RegisterPage - INFO - Selected Javascript skill
+07-07-2025 02:38:53 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:38:53 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:38:53 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:38:53 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:38:53 PM - RegisterPage - INFO - Selected month 6
+07-07-2025 02:38:53 PM - RegisterPage - INFO - Selected month 6
+07-07-2025 02:38:53 PM - RegisterPage - INFO - Selected day 1
+07-07-2025 02:38:53 PM - RegisterPage - INFO - Selected day 1
+07-07-2025 02:38:53 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:38:53 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:38:54 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:38:54 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:38:54 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:38:54 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:38:54 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:38:54 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:39:04 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:39:05 PM - RegisterPage - INFO - Selected ['Hindi', 'Danish'] languages
+07-07-2025 02:39:05 PM - RegisterPage - INFO - Selected ['Hindi', 'Danish'] languages
+07-07-2025 02:39:05 PM - RegisterPage - INFO - Selected ['Hindi', 'Danish'] languages
+07-07-2025 02:39:05 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 02:39:05 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 02:39:05 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 02:39:05 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:39:05 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:39:05 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:39:05 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:39:05 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:39:05 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:39:05 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 02:39:05 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 02:39:05 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 02:39:05 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 02:39:05 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 02:39:05 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 02:39:06 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:39:06 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:39:06 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:39:06 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:39:06 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:39:06 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:39:06 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:39:06 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:39:06 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:39:06 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:39:06 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:39:06 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:39:16 PM - RegisterPage - INFO - Entered first name as Meghashyam
+07-07-2025 02:39:16 PM - RegisterPage - INFO - Entered first name as Meghashyam
+07-07-2025 02:39:16 PM - RegisterPage - INFO - Entered first name as Meghashyam
+07-07-2025 02:39:16 PM - RegisterPage - INFO - Entered first name as Meghashyam
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Entered last name as Sagabala
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Entered last name as Sagabala
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Entered last name as Sagabala
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Entered last name as Sagabala
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Entered address as Hyderabad
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Entered address as Hyderabad
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Entered address as Hyderabad
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Entered address as Hyderabad
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:39:17 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:39:18 PM - RegisterPage - INFO - Selected ['English', 'Russian'] languages
+07-07-2025 02:39:18 PM - RegisterPage - INFO - Selected ['English', 'Russian'] languages
+07-07-2025 02:39:18 PM - RegisterPage - INFO - Selected ['English', 'Russian'] languages
+07-07-2025 02:39:18 PM - RegisterPage - INFO - Selected ['English', 'Russian'] languages
+07-07-2025 02:39:18 PM - RegisterPage - INFO - Selected Python skill
+07-07-2025 02:39:18 PM - RegisterPage - INFO - Selected Python skill
+07-07-2025 02:39:18 PM - RegisterPage - INFO - Selected Python skill
+07-07-2025 02:39:18 PM - RegisterPage - INFO - Selected Python skill
+07-07-2025 02:39:18 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:39:18 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:39:18 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:39:18 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:39:18 PM - RegisterPage - INFO - Selected year 2003
+07-07-2025 02:39:18 PM - RegisterPage - INFO - Selected year 2003
+07-07-2025 02:39:18 PM - RegisterPage - INFO - Selected year 2003
+07-07-2025 02:39:18 PM - RegisterPage - INFO - Selected year 2003
+07-07-2025 02:39:18 PM - RegisterPage - INFO - Selected month 5
+07-07-2025 02:39:18 PM - RegisterPage - INFO - Selected month 5
+07-07-2025 02:39:18 PM - RegisterPage - INFO - Selected month 5
+07-07-2025 02:39:18 PM - RegisterPage - INFO - Selected month 5
+07-07-2025 02:39:19 PM - RegisterPage - INFO - Selected day 11
+07-07-2025 02:39:19 PM - RegisterPage - INFO - Selected day 11
+07-07-2025 02:39:19 PM - RegisterPage - INFO - Selected day 11
+07-07-2025 02:39:19 PM - RegisterPage - INFO - Selected day 11
+07-07-2025 02:39:19 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:39:19 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:39:19 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:39:19 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:39:19 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:39:19 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:39:19 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:39:19 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:39:19 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:39:19 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:39:19 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:39:19 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:39:19 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:39:19 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:39:19 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:39:19 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered first name as Karthik
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered first name as Karthik
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered first name as Karthik
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered first name as Karthik
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered first name as Karthik
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered last name as Manasamudram
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered last name as Manasamudram
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered last name as Manasamudram
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered last name as Manasamudram
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered last name as Manasamudram
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered address as Tirupati
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered address as Tirupati
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered address as Tirupati
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered address as Tirupati
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered address as Tirupati
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:39:34 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:39:35 PM - RegisterPage - INFO - Selected ['English', 'Thai'] languages
+07-07-2025 02:39:35 PM - RegisterPage - INFO - Selected ['English', 'Thai'] languages
+07-07-2025 02:39:35 PM - RegisterPage - INFO - Selected ['English', 'Thai'] languages
+07-07-2025 02:39:35 PM - RegisterPage - INFO - Selected ['English', 'Thai'] languages
+07-07-2025 02:39:35 PM - RegisterPage - INFO - Selected ['English', 'Thai'] languages
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected Javascript skill
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected Javascript skill
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected Javascript skill
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected Javascript skill
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected Javascript skill
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected month 6
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected month 6
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected month 6
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected month 6
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected month 6
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected day 1
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected day 1
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected day 1
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected day 1
+07-07-2025 02:39:36 PM - RegisterPage - INFO - Selected day 1
+07-07-2025 02:39:37 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:39:37 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:39:37 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:39:37 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:39:37 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:39:37 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:39:37 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:39:37 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:39:37 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:39:37 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:39:37 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:39:37 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:39:37 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:39:37 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:39:37 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:39:37 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:39:37 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:39:37 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:39:37 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:39:37 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:39:48 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 02:39:48 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 02:39:48 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 02:39:48 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 02:39:48 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 02:39:48 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 02:39:48 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 02:39:48 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 02:39:48 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 02:39:48 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 02:39:48 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 02:39:48 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 02:39:48 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 02:39:48 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 02:39:48 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 02:39:48 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 02:39:48 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 02:39:48 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:39:49 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:39:50 PM - RegisterPage - INFO - Selected ['Hindi', 'Danish'] languages
+07-07-2025 02:39:50 PM - RegisterPage - INFO - Selected ['Hindi', 'Danish'] languages
+07-07-2025 02:39:50 PM - RegisterPage - INFO - Selected ['Hindi', 'Danish'] languages
+07-07-2025 02:39:50 PM - RegisterPage - INFO - Selected ['Hindi', 'Danish'] languages
+07-07-2025 02:39:50 PM - RegisterPage - INFO - Selected ['Hindi', 'Danish'] languages
+07-07-2025 02:39:50 PM - RegisterPage - INFO - Selected ['Hindi', 'Danish'] languages
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 02:39:51 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:39:52 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:42:30 PM - RegisterPage - INFO - Entered first name as Meghashyam
+07-07-2025 02:42:30 PM - RegisterPage - INFO - Entered last name as Sagabala
+07-07-2025 02:42:30 PM - RegisterPage - INFO - Entered address as Hyderabad
+07-07-2025 02:42:31 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:42:31 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:42:31 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:42:31 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:42:31 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:42:31 PM - RegisterPage - INFO - Selected ['English', 'Russian'] languages
+07-07-2025 02:42:31 PM - RegisterPage - INFO - Selected Python skill
+07-07-2025 02:42:31 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:42:32 PM - RegisterPage - INFO - Selected year 2003
+07-07-2025 02:42:32 PM - RegisterPage - INFO - Selected month 5
+07-07-2025 02:42:32 PM - RegisterPage - INFO - Selected day 11
+07-07-2025 02:42:32 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:42:32 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:42:32 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:42:32 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:42:50 PM - RegisterPage - INFO - Entered first name as Karthik
+07-07-2025 02:42:50 PM - RegisterPage - INFO - Entered first name as Karthik
+07-07-2025 02:42:50 PM - RegisterPage - INFO - Entered last name as Manasamudram
+07-07-2025 02:42:50 PM - RegisterPage - INFO - Entered last name as Manasamudram
+07-07-2025 02:42:50 PM - RegisterPage - INFO - Entered address as Tirupati
+07-07-2025 02:42:50 PM - RegisterPage - INFO - Entered address as Tirupati
+07-07-2025 02:42:50 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:42:50 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:42:50 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:42:50 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:42:50 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:42:50 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:42:50 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:42:50 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:42:50 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:42:50 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:42:51 PM - RegisterPage - INFO - Selected ['English', 'Thai'] languages
+07-07-2025 02:42:51 PM - RegisterPage - INFO - Selected ['English', 'Thai'] languages
+07-07-2025 02:42:51 PM - RegisterPage - INFO - Selected Javascript skill
+07-07-2025 02:42:51 PM - RegisterPage - INFO - Selected Javascript skill
+07-07-2025 02:42:51 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:42:51 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:42:51 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:42:51 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:42:52 PM - RegisterPage - INFO - Selected month 6
+07-07-2025 02:42:52 PM - RegisterPage - INFO - Selected month 6
+07-07-2025 02:42:52 PM - RegisterPage - INFO - Selected day 1
+07-07-2025 02:42:52 PM - RegisterPage - INFO - Selected day 1
+07-07-2025 02:42:52 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:42:52 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:42:52 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:42:52 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:42:52 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:42:52 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:42:52 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:42:52 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:43:07 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 02:43:07 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 02:43:07 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 02:43:08 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 02:43:08 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 02:43:08 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 02:43:08 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 02:43:08 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 02:43:08 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 02:43:08 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:43:08 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:43:08 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:43:08 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:43:08 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:43:08 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:43:08 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:43:08 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:43:08 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:43:08 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:43:08 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:43:08 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:43:08 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:43:08 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:43:08 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:43:18 PM - RegisterPage - ERROR - Failed to select languages
+07-07-2025 02:43:18 PM - RegisterPage - ERROR - Failed to select languages
+07-07-2025 02:43:18 PM - RegisterPage - ERROR - Failed to select languages
+07-07-2025 02:43:18 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 02:43:18 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 02:43:18 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:43:19 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:44:24 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 02:44:24 PM - RegisterPage - INFO - Entered first name as Meghashyam
+07-07-2025 02:44:24 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 02:44:24 PM - RegisterPage - INFO - Entered last name as Sagabala
+07-07-2025 02:44:24 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 02:44:24 PM - RegisterPage - INFO - Entered address as Hyderabad
+07-07-2025 02:44:24 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:44:24 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:44:24 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:44:24 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:44:24 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:44:24 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:44:24 PM - RegisterPage - INFO - Entered first name as Karthik
+07-07-2025 02:44:24 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:44:24 PM - RegisterPage - INFO - Entered last name as Manasamudram
+07-07-2025 02:44:24 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:44:24 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:44:25 PM - RegisterPage - INFO - Entered address as Tirupati
+07-07-2025 02:44:25 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:44:25 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 02:44:25 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 02:44:25 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 02:44:25 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 02:44:26 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 02:44:26 PM - RegisterPage - INFO - Selected ['Hindi', 'Danish'] languages
+07-07-2025 02:44:26 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 02:44:26 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:44:26 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:44:27 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 02:44:27 PM - RegisterPage - INFO - Selected ['English', 'Russian'] languages
+07-07-2025 02:44:27 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 02:44:27 PM - RegisterPage - INFO - Selected Python skill
+07-07-2025 02:44:27 PM - RegisterPage - INFO - Selected ['English', 'Thai'] languages
+07-07-2025 02:44:27 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:44:27 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:44:27 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:44:27 PM - RegisterPage - INFO - Selected Javascript skill
+07-07-2025 02:44:27 PM - RegisterPage - INFO - Selected year 2003
+07-07-2025 02:44:27 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 02:44:27 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:44:27 PM - RegisterPage - INFO - Selected month 5
+07-07-2025 02:44:27 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 02:44:27 PM - RegisterPage - INFO - Selected day 11
+07-07-2025 02:44:27 PM - RegisterPage - INFO - Selected month 6
+07-07-2025 02:44:27 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:44:27 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:44:27 PM - RegisterPage - INFO - Selected day 1
+07-07-2025 02:44:27 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:44:27 PM - RegisterPage - INFO - Entered password
+07-07-2025 02:44:27 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 02:44:28 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 02:44:28 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 02:44:28 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 03:17:46 PM - RegisterPage - INFO - Entered first name as Meghashyam
+07-07-2025 03:17:46 PM - RegisterPage - INFO - Entered last name as Sagabala
+07-07-2025 03:17:46 PM - RegisterPage - INFO - Entered address as Hyderabad
+07-07-2025 03:17:46 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 03:17:46 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 03:17:46 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 03:17:46 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 03:17:46 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 03:17:47 PM - RegisterPage - INFO - Selected ['English', 'Russian'] languages
+07-07-2025 03:17:47 PM - RegisterPage - INFO - Selected Python skill
+07-07-2025 03:17:47 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 03:17:47 PM - RegisterPage - INFO - Selected year 2003
+07-07-2025 03:17:47 PM - RegisterPage - INFO - Selected month 5
+07-07-2025 03:17:47 PM - RegisterPage - INFO - Selected day 11
+07-07-2025 03:17:47 PM - RegisterPage - INFO - Entered password
+07-07-2025 03:17:47 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 03:17:47 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 03:17:47 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 03:46:47 PM - RegisterPage - INFO - Entered first name as Meghashyam
+07-07-2025 03:46:47 PM - RegisterPage - INFO - Entered last name as Sagabala
+07-07-2025 03:46:47 PM - RegisterPage - INFO - Entered address as Hyderabad
+07-07-2025 03:46:47 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 03:46:47 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 03:46:47 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 03:46:48 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 03:46:48 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 03:46:48 PM - RegisterPage - INFO - Selected ['English', 'Russian'] languages
+07-07-2025 03:46:48 PM - RegisterPage - INFO - Selected Python skill
+07-07-2025 03:46:48 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 03:46:49 PM - RegisterPage - INFO - Selected year 2003
+07-07-2025 03:46:49 PM - RegisterPage - INFO - Selected month 5
+07-07-2025 03:46:49 PM - RegisterPage - INFO - Selected day 11
+07-07-2025 03:46:49 PM - RegisterPage - INFO - Entered password
+07-07-2025 03:46:49 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 03:46:49 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 03:46:49 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 03:47:01 PM - RegisterPage - INFO - Entered first name as Karthik
+07-07-2025 03:47:01 PM - RegisterPage - INFO - Entered first name as Karthik
+07-07-2025 03:47:01 PM - RegisterPage - INFO - Entered last name as Manasamudram
+07-07-2025 03:47:01 PM - RegisterPage - INFO - Entered last name as Manasamudram
+07-07-2025 03:47:01 PM - RegisterPage - INFO - Entered address as Tirupati
+07-07-2025 03:47:01 PM - RegisterPage - INFO - Entered address as Tirupati
+07-07-2025 03:47:01 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 03:47:01 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 03:47:01 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 03:47:01 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 03:47:01 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 03:47:01 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 03:47:02 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 03:47:02 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 03:47:02 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 03:47:02 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 03:47:02 PM - RegisterPage - INFO - Selected ['English', 'Thai'] languages
+07-07-2025 03:47:02 PM - RegisterPage - INFO - Selected ['English', 'Thai'] languages
+07-07-2025 03:47:02 PM - RegisterPage - INFO - Selected Javascript skill
+07-07-2025 03:47:02 PM - RegisterPage - INFO - Selected Javascript skill
+07-07-2025 03:47:02 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 03:47:02 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 03:47:02 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 03:47:02 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 03:47:02 PM - RegisterPage - INFO - Selected month 6
+07-07-2025 03:47:02 PM - RegisterPage - INFO - Selected month 6
+07-07-2025 03:47:02 PM - RegisterPage - INFO - Selected day 1
+07-07-2025 03:47:02 PM - RegisterPage - INFO - Selected day 1
+07-07-2025 03:47:03 PM - RegisterPage - INFO - Entered password
+07-07-2025 03:47:03 PM - RegisterPage - INFO - Entered password
+07-07-2025 03:47:03 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 03:47:03 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 03:47:03 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 03:47:03 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 03:47:03 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 03:47:03 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 03:47:15 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 03:47:15 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 03:47:15 PM - RegisterPage - INFO - Entered first name as Teja
+07-07-2025 03:47:15 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 03:47:15 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 03:47:15 PM - RegisterPage - INFO - Entered last name as Peewsar
+07-07-2025 03:47:15 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 03:47:15 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 03:47:15 PM - RegisterPage - INFO - Entered address as Benguluru
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Entered email as demotest@gmail.com
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Entered phone number as 9876543210
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Selected Male radio button
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Checked ['Movies', 'Cricket'] hobbies
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Clicked languages dropdown
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Selected ['Hindi', 'Danish'] languages
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Selected ['Hindi', 'Danish'] languages
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Selected ['Hindi', 'Danish'] languages
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Selected Java skill
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 03:47:16 PM - RegisterPage - INFO - Selected Japan country
+07-07-2025 03:47:17 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 03:47:17 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 03:47:17 PM - RegisterPage - INFO - Selected year 2002
+07-07-2025 03:47:17 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 03:47:17 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 03:47:17 PM - RegisterPage - INFO - Selected month 8
+07-07-2025 03:47:17 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 03:47:17 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 03:47:17 PM - RegisterPage - INFO - Selected day 15
+07-07-2025 03:47:17 PM - RegisterPage - INFO - Entered password
+07-07-2025 03:47:17 PM - RegisterPage - INFO - Entered password
+07-07-2025 03:47:17 PM - RegisterPage - INFO - Entered password
+07-07-2025 03:47:17 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 03:47:17 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 03:47:17 PM - RegisterPage - INFO - Entered confirm password
+07-07-2025 03:47:17 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 03:47:17 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 03:47:17 PM - RegisterPage - INFO - Uploaded image
+07-07-2025 03:47:17 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 03:47:17 PM - RegisterPage - INFO - Clicked submit button
+07-07-2025 03:47:17 PM - RegisterPage - INFO - Clicked submit button
