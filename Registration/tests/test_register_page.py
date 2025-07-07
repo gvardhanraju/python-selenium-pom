@@ -4,7 +4,7 @@ import pytest
 from Registration.conftest import browserControl
 from Registration.pages.register_page import RegisterPage
 
-register_page_test_data = "C:\\Data\\Python Selenium\\SeleniumCaseStudy\\Registration\\test_data\\registration_data.json"
+register_page_test_data = "Registration\\test_data\\registration_data.json"
 
 with open(register_page_test_data) as test_data_file:
     test_data = json.load(test_data_file)
